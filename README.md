@@ -218,5 +218,8 @@ Notes:
 - Add dataset/versioned index snapshots.
 - Add telemetry and evaluation harness.
 
+## Deployment screenshot
+![Deployment interface](screenshots/op_ss_1.png)
+
 ## License
 MIT
