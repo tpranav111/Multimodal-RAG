@@ -1,0 +1,6 @@
+{
+  "answer": "Self-attention layers connect all positions with a constant number of sequentially executed operations, while recurrent layers require O(n) sequential operations.",
+  "image_paths": [
+    "C:\\Users\\Pranav Thorat\\Desktop\\M-RAG\\data\\images\\attention_is_all_you_need_2017_p2_i0.png"
+  ]
+}
